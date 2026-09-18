@@ -1,0 +1,21 @@
+neem = {
+    "azadirachtin_a": "C/C=C(\\C)/C(=O)O[C@H]1[C@H]([C@]2(CO[C@@H]3[C@@H]2[C@]14CO[C@@]/[C@H]4[C@](C)([C@@H]3O)C)[C@@H]56[C@@H]7C[C@H]([C@@]/5(O6)C)[C@]8(C=CO[C@H]8O7)O)(C(=O)OC)OC(=O)C",
+    "meliantriol": "C[C@@]12CC[C@H]3C(=CC[C@@H]4[C@@]3(CC[C@@H](C4(C)C)O)C)[C@]1(CC[C@H]2[C@@H]5C[C@@H](O[C@H]5O)[C@@H](C(C)(C)O)O)C",
+    "gedunin": "CC(=O)O[C@H]1C[C@@H]2[C@](C=CC(=O)C2(C)C)([C@@H]3[C@@]1([C@](O4)C(=O)O[C@H]1[C@@]5(CC3)C6=COC=C6)C)C",
+    "azadirone": "CC(=O)O[C@H]1C[C@@H]2[C@](C=CC(=O)C2(C)C)([C@@H]3[C@@]1(C4=CC[C@H]([C@@]4(CC3)C)C5=COC=C5)C)C",
+    "nimbolide": "CC1=C2[C@@H]([C[C@H]1C3=COC=C3)O[C@H]4[C@@]/2([C@@H]([C@@H]5([C@H]6[C@H]4OC(=O)[C@@]6(C=CC5=O)C)C(=O)OC)C)CC(=O)OC",
+    "salannin": "C/C=C(\\C)/C(=O)O[C@H]1C[C@H]([C@]2(CO[C@@H]3[C@@H]2[C@]1([C@H]([C@H]4([C@@H]3O[C@H]5C4=C([C@@H](C5)C6=COC=C6)C)CC(=O)OC)C)C)OC(=O)C",
+    "nimbin": "CC1=C2[C@@H]([C[C@H]1C3=COC=C3)O[C@H]4[C@@]/2([C@@H]([C@@H]5([C@H]4OC(=O)C)[C@](C=CC5=O)(C)C(=O)OC)C)CC(=O)OC",
+    "sodium_nimbinate": "CC1=C2C(CC1C3=COC=C3)OC4C2(C(C5(C(C4O)C(C=CC5=O)(C)C(=O)OC)C)CC(=O)[O-])C.[Na+]",
+    "nimbolinin": "C/C=C(\\C)/C(=O)O[C@H]1[C@H]2[C@H]3[C@](CO2)(C(CC([C@@]/3(C4[C@@]1(C5=C([C@@H](CC5OC(C4)O)C6=CC=CO6)C)C)C)OC(=O)C)OC(=O)C)C",
+    "nimocinol": "CC(=O)O[C@H]1[C@@H]([C@@H]2[C@](C=CC(=O)C2(C)C)([C@@H]3C1(C4=CC[C@H]([C@@]4(CC3)C)C5=COC=C5)C)C)O",
+    "isomeldenin": "CC(=O)OC1[C@@H]([C@@H]2[C@](CCC(=O)C2(C)C)([C@@H]3[C@@]1(C4=CC[C@H]([C@@]4(CC3)C)C5=COC=C5)C)C)O",
+    "nimbidiol": "C[C@]12CCCC([C@@H]1CC(=O)C3=CC=(C(C=C23)O)O)(C)C",
+    "azadirachtin_b": "C[C@]12[C@H]3C[C@@H]([C@]1(O2)[C@]/4([C@@H]5[C@H](OC[C@@]/56[C@H]([C[C@H]([C@@]/7([C@@H]6[C@H]([C@H]4O)OC7)C(=O)OC)O)O)C(=O)OC)O)[C@H]8[C@@]3(C=CO8)O",
+    "nimbidic_acid": "CC1=C2[C@@H]([C[C@H]1C3=COC=C3)O[C@H]4[C@@]/2([C@@H]([C@@H]5([C@H]([C@H]([C@@]6([C@@H]5[C@H]4OC6)C)O)O)C)CC(=O)O)C",
+    "odoratone": "CC(=O)O[C@H]1CC[C@]/2([C@]1(CC[C@H]3C2=CC[C@@H]4[C@@]3(CCC(=O)C4(C)C)C)C)[C@@H]5[C@@H]([C@@H](C(O5)(C)C)O)O",
+    "n_hexacosanol": "CCCCCCCCCCCCCCCCCCCCCCCCCCCO",
+    "ascorbic_acid": "C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O",
+    "quercetin": "C1=CC(=C(C=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O)O",
+    "gallic_acid": "C1=C(C=C(C(=C1O)O)O)C(=O)O"
+}
